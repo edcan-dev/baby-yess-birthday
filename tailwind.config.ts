@@ -11,6 +11,10 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+
+        lilac: '#D29BFD',
+        amethyst: '#7C45A9',
+        mint: '#A0E5FA',
       },
     },
   },

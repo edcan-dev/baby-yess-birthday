@@ -1,0 +1,239 @@
+{
+
+  "featuredMomentsData": [
+    {
+      "id": "ae45c184-8e75-4206-9cc1-e89ea80c66b2",
+      "fileName": "awwww.jpeg",
+      "description": "Este fue mi primer cumpleaños con el amor de mi vida.",
+      "title": "Edgarcito Primer Cumple"
+    },
+    {
+      "id": "01b606fe-48b1-40e5-be61-8bc0bdaa1be1",
+      "fileName": "cabello-dron.jpeg",
+      "description": "Con su enorme cabello, tan emosaaa.",
+      "title": "Mi Emosa Pilotando"
+    },
+    {
+      "id": "38a76471-edfc-493a-a8cc-3f783a987f2f",
+      "fileName": "cafeteria-muy-cara-je.jpeg",
+      "description": "Pero muy bonita y con un muy rico Avocado Toast.",
+      "title": "Cafetería un poco cara"
+    },
+    {
+      "id": "a7d42c05-26e4-4eb7-b123-c31c4de38142",
+      "fileName": "carls.jpeg",
+      "description": "Ese día comimos mucho, qué ricooo.",
+      "title": "Carl's, mi enorme hamburguesa!"
+    },
+    {
+      "id": "c2581637-db0d-4804-9a7d-c28a6c6b7ade",
+      "fileName": "cartel-siiiii.jpeg",
+      "description": "Encontramos un cartel en vinculación donde sales tú, fue un día muy bonito.",
+      "title": "Estamos muy orgullosos"
+    },
+    {
+      "id": "963bd1df-717c-4aaa-bac5-f4ab1a480f4b",
+      "fileName": "circo.jpeg",
+      "description": "No sé porqué era de terror, si fueron puras risas.",
+      "title": "El Circo De Terror y Tilín"
+    },
+    {
+      "id": "d51061d6-92ba-4bb3-8fa1-c87185990080",
+      "fileName": "concierto-reforma.jpeg",
+      "title": "Las Áñez, y un bar muy bonito",
+      "description": "Qué rica estuvo nuestra comida, y muy bonita la música."
+    },
+    {
+      "id": "535302ee-4f1b-4fea-86ec-3e5837fe1ca8",
+      "fileName": "dia-de-muertos.jpeg",
+      "title": "Nuestro Primer Día de Muertos",
+      "description": "Recuerdo muy muy bien ese día."
+    },
+    {
+      "id": "9bb9235b-b344-48ab-98dc-8f47241c7499",
+      "fileName": "emosa-cubrebocas.jpeg",
+      "description": "En este recopilatorio, no puede faltar mi Yess Inglés.",
+      "title": "Emosa con Cubrebocas"
+    },
+    {
+      "id": "93992976-d2d3-480a-97ff-9952de06ae09",
+      "fileName": "emosa-dron.jpeg",
+      "description": "Fotografía tomada momentos antes de que hiciera carita enojada.",
+      "title": "Mi emosa y sus manitas"
+    },
+    {
+      "id": "fdc3d49e-3a1c-4258-8fbb-bc55cefad6d7",
+      "fileName": "emosa-manejando.jpeg",
+      "description": "Mostrando maestría al  volante.",
+      "title": "Yess Bebé Conductora"
+    },
+    {
+      "id": "03e66289-4749-46bf-b8c6-f10431f38581",
+      "fileName": "enojadita.jpeg",
+      "description": "Mi bebé muy enojadita.",
+      "title": "Yess Bebé Enojadita"
+    },
+    {
+      "id": "6a37bc3c-72ff-4936-9ff8-73c5d6bba999",
+      "fileName": "enorme-fiesta.jpeg",
+      "description": "Un día muy bonito en compañia de la familia.",
+      "title": "Mamá Hilda Fiesta"
+    },
+    {
+      "id": "22d979bc-ec56-43a2-8e4b-9914f47696e5",
+      "fileName": "graduacion-sooooo.jpeg",
+      "description": "Efectivamente, se logró.",
+      "title": "Siiiiii"
+    },
+    {
+      "id": "a949f9ad-7bbd-4f80-b2c4-2ebc7a4ea82a",
+      "fileName": "graduacion-yo.jpeg",
+      "description": "Gracias a Dios se terminó este calvario.",
+      "title": "Siiiiii de nuevo"
+    },
+    {
+      "id": "7c7e0ea8-961d-471e-abe4-b9b19b09bcc4",
+      "fileName": "jalisco.jpeg",
+      "description": "De camino a Jalisco, qué emoción.",
+      "title": "¡A Jalisco!"
+    },
+    {
+      "id": "469e712e-7a14-4f2c-8fab-2a7762ad1060",
+      "fileName": "mario-kart-emosa.jpeg",
+      "description": "Qué emosa, seguramente tenía sueñito.",
+      "title": "Mi emosa y Mario Kart"
+    },
+    {
+      "id": "543e6e49-fa5b-4ba3-ac00-818473d08a6b",
+      "fileName": "mi-cumpleeee.jpeg",
+      "description": "El amor de mi vida organizó una sorpresa por mi cumpleaños.",
+      "title": "Otra vez, mi primer cumpleaños"
+    },
+    {
+      "id": "e7db2a15-bec7-4ea7-85f6-510894337285",
+      "fileName": "mi-emosa-tapa-rota.jpeg",
+      "description": "Baby Yess me acompaña a comprar una nueva tapa para el baño",
+      "title": "Ups..."
+    },
+    {
+      "id": "5aa90f3a-35c0-44e2-9bf9-1a8e9b4200a2",
+      "fileName": "mi-enorme-pilotaje.jpeg",
+      "description": "El amor de mi vida y yo vamos de paseo a pilotar el dron.",
+      "title": "Pilotaje en Parque la Mexicana"
+    },
+    {
+      "id": "bc45ee16-7306-4bb8-b579-84c9089f58c4",
+      "fileName": "mi-esposa-graduacion.jpeg",
+      "description": "Muy emosa celebrando su graduación.",
+      "title": "Baby Yess muy graduada"
+    },
+    {
+      "id": "673bcb94-8b4f-4bfa-bb46-a3322a3e6faf",
+      "fileName": "mi-esposa-presentando.jpeg",
+      "title": "Presentando",
+      "description": "El día en el que presentate tu proyecto en la escuela."
+    },
+    {
+      "id": "c2addad0-1815-43bb-903d-7bc4b629ed91",
+      "fileName": "mi-esposa.jpeg",
+      "title": "Mi esposa",
+      "description": "En ese momento me dí cuenta de que tú serías tienes que ser mi esposa"
+    },
+    {
+      "id": "018a75ac-22ec-4db4-b906-b92d7e438fbd",
+      "fileName": "patrona.jpeg",
+      "description": "Edgarcito pintando la pared mientas la emosa descansa.",
+      "title": "Patrona"
+    },
+    {
+      "id": "cc31cc63-1456-4c14-9552-7c44f11a5905",
+      "fileName": "perrito-echadito.jpeg",
+      "description": "Después de pilotar todo el día, un descanso.",
+      "title": "Perrito muy echadito"
+    },
+    {
+      "id": "f458ed19-3449-4a5f-ad59-c2659b4179b5",
+      "fileName": "poniendo-soporte.jpeg",
+      "description": "Poniendo el soporte que no se ha caído, je.",
+      "title": "Poniendo soporte"
+    },
+    {
+      "id": "0f24e95b-ff46-4998-8fa6-30c5ccb16929",
+      "fileName": "primer-abracito.jpeg",
+      "description": "El día de mi cumpleaños, recibiendo un enorme abracito.",
+      "title": "Mi primer cumpleaños contigo"
+    },
+    {
+      "id": "2e022acb-393d-43d6-9b55-628747f05a8d",
+      "fileName": "primer-cumple-abracito.jpeg",
+      "description": "Ahora tú recibes abracito en tu primer cumpleaños juntos.",
+      "title": "Tu primer cumpleaños conmigo"
+    },
+    {
+      "id": "2e0844a8-7b67-4d85-85ec-0650d56bc25a",
+      "fileName": "primer-cumple.jpeg",
+      "description": "Muy emosa con su gorrita en la celebración.",
+      "title": "Baby Yess cumpleañera con gorrita"
+    },
+    {
+      "id": "59496f62-9c94-49af-bf19-2d4577529891",
+      "fileName": "primer-helado.jpeg",
+      "description": "Mi bebé me invitó un helado muy rico.",
+      "title": "Nuestro primer helado de Yogurth"
+    },
+    {
+      "id": "1efb84e3-86eb-4483-890e-279959ece180",
+      "fileName": "primer-italianis.jpeg",
+      "description": "Qué rico, aprovechando al máximo nuestro buffet.",
+      "title": "Nuestro primer Italianni's"
+    },
+    {
+      "id": "bdf1a6a5-8471-460d-94e1-35be01a0f962",
+      "fileName": "que-flojera.jpeg",
+      "description": "Aquí, echando la hueva.",
+      "title": "Qué flojera"
+    },
+    {
+      "id": "c4da6f2b-c754-4b0a-a341-fc6104933986",
+      "fileName": "robando-pollo.jpeg",
+      "description": "Bebé y Edgar roban pollo mientras todos están distraídos.",
+      "title": "Robando Pollo Rostizado"
+    },
+    {
+      "id": "6cd2c586-cc46-42d7-a834-8b2d9477c42e",
+      "fileName": "segundo-cumple.jpeg",
+      "description": "Bailando durante el segundo cumpleaños juntitos.",
+      "title": "Segundo Cumple de mi emosa"
+    },
+    {
+      "id": "74e0f98a-563e-41b0-b718-714e22f4847d",
+      "fileName": "sesion-de-fotos.jpeg",
+      "description": "Baby Yess se roba la sesión de fotos y todos se quedan atónitos.",
+      "title": "Robándose la Sesión de Fotos"
+    },
+    {
+      "id": "4c01f7be-8aef-4186-a998-4a7259db28f0",
+      "fileName": "tlaquepaque-1.jpeg",
+      "description": "Y esta vez no estamos hablando de mí.",
+      "title": "Visitando a los gorditos"
+    },
+    {
+      "id": "80569d7f-fee6-4bcb-a7a6-e28f87653a2b",
+      "fileName": "tlaquepaque-2.jpeg",
+      "description": "Una tradicional foto en las letras de Tlaquepaque",
+      "title": "Tlaquepaque"
+    },
+    {
+      "id": "c6a01347-ba53-4925-b102-9854065895d0",
+      "fileName": "vestido-mu-emoso.jpeg",
+      "description": "El amor de todas mis vidas vuelve a robarse mi corazón usando un emoso vestido.",
+      "title": "Vestidito encantador"
+    },
+    {
+      "id": "dd474ff3-05d8-4853-84bc-f346a9e3e073",
+      "fileName": "manitas.jpeg",
+      "description": "Nuestra primera foto, uno de los días más lindos de mi vida.",
+      "title": "Manitas"
+    }
+  ]
+}

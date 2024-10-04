@@ -1,0 +1,21 @@
+.ternurin_question_animation {
+  animation: pulse;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+
+}
+
+.canichi_animation {
+  animation: bounce;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+
+}
+
+.home_cover_out_animation {
+
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-name: fadeOut;
+
+}
