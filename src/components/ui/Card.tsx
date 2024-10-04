@@ -9,17 +9,6 @@ interface CardProps {
   hueB: number;
 }
 
-const food: [string, number, number][] = [
-  ["🍅", 340, 10],
-  ["🍊", 20, 40],
-  ["🍋", 60, 90],
-  ["🍐", 80, 120],
-  ["🍏", 100, 140],
-  ["🫐", 205, 245],
-  ["🍆", 260, 290],
-  ["🍇", 290, 320]
-];
-
 const cardVariants: Variants = {
   offscreen: {
     y: 300

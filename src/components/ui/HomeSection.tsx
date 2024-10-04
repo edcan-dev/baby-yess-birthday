@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import { FeaturedMomentsPhoto } from "@/interfaces";
 
@@ -34,8 +34,8 @@ export const HomeSection = ({ featuredMomentsPhotos }: Props) => {
   const birthDay = new Date(2000, 9, 4);
   const today = new Date();
   const diasTotales = (birthDay: Date, today: Date) => {
-    let dif = birthDay.getTime() - (today.getTime() - 1000 * 3600);
-    let totalDays = Math.ceil(dif / (1000 * 3600 * 24));
+    const dif = birthDay.getTime() - (today.getTime() - 1000 * 3600);
+    const totalDays = Math.ceil(dif / (1000 * 3600 * 24));
     return totalDays > 0 ? totalDays : totalDays * -1;
   };
   const daysCount = diasTotales(birthDay, today);

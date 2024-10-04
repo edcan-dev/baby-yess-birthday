@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import React, { MouseEvent, useState } from "react";
+import React from "react";
 
 interface Props {
   emitClick(): void
@@ -11,7 +11,7 @@ interface Props {
 export const HomeCover = ({ emitClick }: Props) => {
 
 
-  const handleClick = (ev: MouseEvent) => {
+  const handleClick = () => {
     // setOutClass('animate__bounceOutUp');
     emitClick();
   }
@@ -22,7 +22,7 @@ export const HomeCover = ({ emitClick }: Props) => {
       <h1 className="ternurin_question_animation mb-8 text-6xl font-bold text-lilac">???</h1>
 
       <div className="ternurin_question_animation cursor-pointer"
-      onClick={ handleClick }
+      onClick={ () => handleClick() }
       >
         
         <Image

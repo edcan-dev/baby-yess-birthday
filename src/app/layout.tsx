@@ -1,5 +1,3 @@
-import type { Metadata } from "next";
-import localFont from "next/font/local";
 import { Montserrat } from "next/font/google";
 import "./globals.css";
 
